@@ -1,0 +1,51 @@
+<h2>Enrollment Fee Includes</h2>
+<ul>
+    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+</ul>
+<hr>
+<h2>6 Week Intensive Program Includes:</h2>
+<div class="indent15 smaller-h3">
+    <h3>1. Clinical Assessments</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>2. Phone interviews</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>3. Individualized Treatment Planning</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>4. Ongoing Clinical Services for Student:</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>5. Ongoing Clinical Services for Family:</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>6. Treatment Planning and Coordination</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>7. Life Coaching</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>8. Full Aftercare Planning:</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>9. All Equipment and Clothing provided:</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>10. All Educational Material and Course Manuals:</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>11. Holistic Food Program:</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+    <h3>12. Transportation:</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.</p>
+</div>
+<hr>
+<h2>What is NOT included?</h2>
+<p class="indent15">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet
+</p>
+<hr>
+<h2>How can I pay?</h2>
+<p class="indent15">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet, mauris magna accumsan nisl, nec congue mauris elit at erat.
+</p>
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed enim non sem laoreet feugiat id non nulla. Nulla gravida, purus eu iaculis laoreet</em></p>
+
+<p>
+    <a href="#" class="button-primary">Register for a program</a>
+    <a href="#" class="button-primary">Financial Aid</a>
+    <a href="#" class="button-primary">Medical Insurance Coverage</a>
+</p>
