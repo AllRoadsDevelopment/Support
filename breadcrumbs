@@ -1,0 +1,47 @@
+@author: Bilal Hassan
+
+Breadcrums issue in Yootheme: Does not show full path including parent.
+Example:
+
+  URL: http://domain.com/parent-page/child-page
+  breadcrumb: home - child page               <---- Wrong
+  should be:  home - parent page - child page  
+  
+  
+  
+  How to fix:
+  
+  Edit: /wp-content/themes/yoo_theme-name_wp/warp/systems/wordpress/widgets/breadcrumbs/breadcrumbs.php
+  
+  Step 1: 
+    replace: global $wp_query;
+    with: global $wp_query, $post;
+    
+  Step 2:
+    replace: if (is_single()) { 
+    with: 
+    if (is_page()){
+
+    $parent_id = $post->post_parent;
+
+    $parents_list = array();
+
+    while($parent_id) {  
+        $parent_page = get_page($parent_id);  
+        $parents_list[] = '<a href="'.get_permalink($parent_page->ID).'">'.get_the_title($parent_page->ID).'</a>';  
+        $parent_id  = $parent_page->post_parent;  
+    }
+
+    while(count($parents_list) > 0){  
+        $parent = array_pop($parents_list);  
+        $output .= isset($parent) ? $parent : '';  
+    }
+
+} elseif (is_single()) { 
+
+
+Save and it should work right away!
+If that doesn't do anything, look if your theme has a breadcrumbs override file in: 
+/wp-content/themes/yoo_theme-name_wp/widgets/breadcrumbs/breadcrumbs.php
+do your changes there instead
+
